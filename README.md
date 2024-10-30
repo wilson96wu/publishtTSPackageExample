@@ -30,6 +30,23 @@ To run the project, use the following command:
 npm start
 ```
 
+## Login
+
+To login to npm, use the following command:
+
+```bash
+npm login
+```
+
+## Publish
+
+To login to npm, use the following command:
+
+```bash
+npm publish
+```
+
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
